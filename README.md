@@ -7,13 +7,11 @@ This Repo for Making an Cross Platform App with Ionic Cordova To have A Movie Li
 
 --> Just Open the Cmd or Git Bash 
 ```
-
 ionic build android 
 ```
 
 # Run in the Brwoser : 
 
 ```
-  ionic serve
-  
+ionic serve
 ```
